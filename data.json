@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1001,
+        "imageUrl": "sample.png",
+        "firstName": "Emily",
+        "lastName": "Parker",
+        "email": "EmilyParker@employee.com",
+        "contactNumber": "1796692843",
+        "dob": "14/12/1953"
+    },
+    {
+        "id": 1002,
+        "imageUrl": "sample.png",
+        "firstName": "James",
+        "lastName": "Bennett",
+        "email": "JamesBennett@employee.com",
+        "contactNumber": "1914279673",
+        "dob": "24/08/1962"
+    },
+    {
+        "id": 1003,
+        "imageUrl": "sample.png",
+        "firstName": "Olivia",
+        "lastName": "Johnson",
+        "email": "OliviaJohnson@employee.com",
+        "contactNumber": "1599795571",
+        "dob": "08/01/1971"
+    },
+    {
+        "id": 1004,
+        "imageUrl": "sample.png",
+        "firstName": "Michael",
+        "lastName": "Smith",
+        "email": "MichaelSmith@employee.com",
+        "contactNumber": "1892995334",
+        "dob": "09/09/1999"
+    },
+    {
+        "id": 1005,
+        "imageUrl": "sample.png",
+        "firstName": "Sarah",
+        "lastName": "Davis",
+        "email": "SarahDavis@employee.com",
+        "contactNumber": "1121489095",
+        "dob": "31/08/1989"
+    },
+    {
+        "id": 1006,
+        "imageUrl": "sample.png",
+        "firstName": "David",
+        "lastName": "Wilson",
+        "email": "DavidWilson@employee.com",
+        "contactNumber": "1746199430",
+        "dob": "22/07/1956"
+    },
+    {
+        "id": 1007,
+        "imageUrl": "sample.png",
+        "firstName": "Sophia",
+        "lastName": "Lee",
+        "email": "SophiaLee@employee.com",
+        "contactNumber": "1759095730",
+        "dob": "26/11/1955"
+    },
+    {
+        "id": 1008,
+        "imageUrl": "sample.png",
+        "firstName": "John",
+        "lastName": "Carter",
+        "email": "JohnCarter@employee.com",
+        "contactNumber": "1379193375",
+        "dob": "25/06/1986"
+    },
+    {
+        "id": 1009,
+        "imageUrl": "sample.png",
+        "firstName": "Isabella",
+        "lastName": "Martinez",
+        "email": "IsabellaMartinez@employee.com",
+        "contactNumber": "1994092994",
+        "dob": "17/02/1944"
+    },
+    {
+        "id": 1010,
+        "imageUrl": "sample.png",
+        "firstName": "Daniel",
+        "lastName": "Brown",
+        "email": "DanielBrown@employee.com",
+        "contactNumber": "1112392580",
+        "dob": "14/04/1989"
+    }
+]
